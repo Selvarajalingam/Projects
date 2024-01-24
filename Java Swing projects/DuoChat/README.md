@@ -6,7 +6,7 @@ DuoChat is a WhatsApp clone developed using Java Swing, consisting of two distin
 ## Screen shots
 
 #### Server Interface
-![](ScreenShots\server.png?raw=true)
+![](ScreenShots/server.png?raw=true)
 
 #### Client Interface
 ![](ScreenShots\client.png?raw=true)
